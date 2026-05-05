@@ -2,7 +2,9 @@
 
 Modern and responsive landing page for a personal finance application, developed with a focus on clean design, usability, and conversion.
 
-
+<img width="1429" height="752" alt="Image" src="https://github.com/user-attachments/assets/4c0f74c1-ca69-4f0d-acf8-1d5746763162" />
+<img width="1429" height="752" alt="Image" src="https://github.com/user-attachments/assets/e0ae9149-cf12-47fe-a75e-978ff81f5e61" />
+<img width="1429" height="752" alt="Image" src="https://github.com/user-attachments/assets/9d1aab98-244e-40b4-9384-6e9410741c21" />
 
 📌 About the Project
 
